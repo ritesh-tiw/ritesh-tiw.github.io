@@ -16,7 +16,7 @@ timezone: Asia/Kolkata
 
 title: Ritesh's blog # the main title
 
-tagline: Keep It Simple # it will display as the subtitle
+tagline: Moto "Keep It Simple Stupid" # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A document my learning projects here.
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: ./assets/profile.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
